@@ -29,4 +29,4 @@
 ![Скриншот][1]
 ----
 
-[1]: https://raw.githubusercontent.com/cloudipsp/joomshopping/master/jomjom.png
+[1]: https://raw.githubusercontent.com/cloudipsp/joomshopping/master/jomjom.PNG
