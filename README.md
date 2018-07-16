@@ -29,4 +29,9 @@
 ![Скриншот][1]
 ----
 
-[1]: https://raw.githubusercontent.com/cloudipsp/joomshopping/master/jomjom.PNG
+[1]: https://raw.githubusercontent.com/cloudipsp/joomshopping/bank_wire/jomjom.PNG
+
+![Скриншот][2]
+----
+
+[2]: https://raw.githubusercontent.com/cloudipsp/joomshopping/bank_wire/s1.png
